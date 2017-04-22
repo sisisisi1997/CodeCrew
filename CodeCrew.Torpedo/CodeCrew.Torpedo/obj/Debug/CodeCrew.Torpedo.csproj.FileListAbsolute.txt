@@ -1,0 +1,15 @@
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\bin\Debug\CodeCrew.Torpedo.exe.config
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\bin\Debug\CodeCrew.Torpedo.exe
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\bin\Debug\CodeCrew.Torpedo.pdb
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo.csprojResolveAssemblyReference.cache
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\MainWindow.g.cs
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\App.g.cs
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo_MarkupCompile.cache
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo_MarkupCompile.lref
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\MainWindow.baml
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo.g.resources
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo.Properties.Resources.resources
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo.csproj.GenerateResource.Cache
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo.exe
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\CodeCrew.Torpedo.pdb
+D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\obj\Debug\App.baml
